@@ -350,6 +350,8 @@ input::-ms-input-placeholder{color:#999;}
 .icon38{background-image:url(img/icon38.svg);}
 .icon39{background-image:url(img/icon39.svg);}
 .icon40{background-image:url(img/icon40.svg);}
+.icon42{background-image:url(img/icon42.svg);}
+.icon43{background-image:url(img/icon43.svg);}
 /*公司部门席位管理*/
 .departmentList{margin:0.4em auto;}
 .departmentList .img{width:1.5em; height:1.5em;}
@@ -649,6 +651,11 @@ input::-ms-input-placeholder{color:#999;}
 .booking .business .title{border-bottom:solid #666 0.078125em; font-size:0.4em; line-height:2.6em; text-indent:1em;}
 .booking .business .title .icon{top:0; right:0.2em; width:2.6em; height:2.6em;}
 .booking .business .text{font-size:0.38em; padding:0.4em; line-height:1.8em;}
+.booking .likes{font-size:0.4em; overflow:hidden;}
+.booking .likes .c{float:right; margin-left:0.4em; border:solid 0.078125em #959595; border-radius:10em; overflow:hidden;padding:0 0.1em;}
+.booking .likes .c:active{background-color:#eee;}
+.booking .likes .c .text{font-size:0.6em; line-height:1.8em; float:left; width:2.6em; text-align:center; }
+.booking .likes .c .icon{float:left; height:1.8em; font-size:0.6em; width:1.8em; background-size:90% 90%;}
 .foot.foot3{overflow:hidden;padding:0;border-top:none;}
 .foot.foot3 .gg{width:33.333333%; float:left; text-align:center;}
 .foot.foot3 .g1{overflow:hidden;}
